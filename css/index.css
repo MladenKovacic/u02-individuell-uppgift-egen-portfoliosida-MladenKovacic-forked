@@ -499,6 +499,14 @@
       width: 20rem;
     }
   }
+  .projects-pictureone {
+   width: 70%;
+  }
+
+  .projects-picturetwo {
+    width: 90%;
+  }
+
   .projects-picture {
     width: 100%;
   }

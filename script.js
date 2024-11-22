@@ -13,12 +13,15 @@ const modalContainer = document.getElementById("modal-container");
 const parenteducation = document.getElementById("parent-education")
 const showEducation = document.getElementById("showEducation")
 const showWork = document.getElementById("showWork");
+const parentWork = document.getElementById("parent-work")
 
 const githubPagesQuiz = "https://mladenkovacic.github.io/team-9-quiz-app-forked/"
 const githubRepoQuiz = "https://github.com/MladenKovacic/team-9-quiz-app-forked.git"
 
-const githubPagesWhatsCooking = "https://mladenkovacic.github.io/WhatsCooking/"
+const githubPagesWhatsCooking = "https://mladenkovacic.github.io/WhatsCooking/";
 const githubRepoWhatsCooking = "https://github.com/MladenKovacic/WhatsCooking.git"
+
+const livePreviewOne = document.getElementById("livePreviewOne")
 
 
 
